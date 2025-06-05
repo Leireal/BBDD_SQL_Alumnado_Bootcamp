@@ -1,6 +1,6 @@
 # PROYECTO DE CREACIÓN DE BASE DE DATOS RELACIONAL SQL
 
-![estudiantes](img/estudiantes.jpeg)
+![estudiantes](img/estudiantes.jfif)
 
 
 
