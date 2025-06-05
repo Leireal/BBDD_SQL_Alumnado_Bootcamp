@@ -1,8 +1,5 @@
 # PROYECTO DE CREACIÓN DE BASE DE DATOS RELACIONAL SQL
 
-![estudiantes](img/estudiantes.jfif)
-
-
 
 ## INTRODUCCIÓN 
 
